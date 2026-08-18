@@ -1,0 +1,26 @@
+Listening on 49278
+User program running
+Enter student name: 
+Ananya
+Enter daily budget: 
+500
+Enter food expense: 
+150
+Enter travel expense: 
+80
+Enter study expense: 
+100
+Enter other expense: 
+50
+User program finished
+---------- DAILY EXPENSE REPORT ----------
+Student Name      : Ananya
+Daily Budget      : 500.0
+Food Expense      : 150.0
+Travel Expense    : 80.0
+Study Expense     : 100.0
+Other Expense     : 50.0
+Total Expense     : 380.0
+Remaining Amount  : 120.0
+Budget Status     : Within Budget
+------------------------------------------
